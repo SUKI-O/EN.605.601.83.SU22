@@ -1,0 +1,59 @@
+1
+
+In this lecture we’ll define requirements engineering.
+
+Systems & Requirements Engineering Requirements Engineering
+
+2
+
+Assuming the system level requirements for a product have been
+
+What’s Requirements Engineering?
+
+allocated to the various system components, we are ready to
+
+discuss requirements engineering...more specifically the
+
+“Requirements engineering consists of all the activities involved in discovering, documenting, and maintaining a set of software requirements.”
+
+requirements that the software components of a system will be responsible for.
+
+Adapted from: I. Somerville, P. Sawyer, Requirements Engineering: A Good Practice Guide, Wiley, 1997.
+
+“Requirements engineering refers to the process of defining, documenting, and maintaining software requirements and to the subfield of software engineering concerned with this process.”
+Wikipedia
+
+Here‘s a few definitions of requirements engineering...and they‘re quite consistent with one another.
+
+So why is the term engineering used here? Are there scientific principles and physics that are applied in the engineering of
+software requirements? Truthfully...and in practice...no. The word engineering is used as a way of emphasizing the use of systematic and repeatable techniques that help to ensure the completeness, correctness, consistency, and continued relevance of software requirements for a software product.
+
+Requirements engineering is not always called that in practice. It’s often called requirements definition or requirements analysis. But, limiting it to requirements definition or requirements analysis leaves out an important keyword in both of the above definitions…and that keyword is maintenance.
+
+Requirements can and will change during the course of a project, and maintaining requirements means to keep up with and manage those changes. Recall that in our discussion of project management one of the umbrella processes was requirements management…and it is as part of the requirements management process that the
+
+maintenance typically takes place.
+Also…using the term engineering to emphasize systematic and repeatable activities is very important, since, for many organizations, the activities performed during the requirements phase of a project tend to be ad hoc.
+Since this is a course on software engineering…we’re going to support and emphasize activities that are, in fact, systematic and repeatable, in our discussion of the requirements phase. So…let’s get started.
+
+3
+
+Now, the system-level requirements that are allocated to software
+
+Requirements Allocated to Software are stated at a very high level...usually with a single sentence.
+
+So...they are not yet specified at a level of detail that would be
+
+sufficient to begin system design from...and...they may need to be
+
+decomposed into more specific requirements...or may spawn
+
+additional requirements that are necessary to correctly and
+
+completely specify the responsibilities of the software to be
+
+developed.
+
+So...the initial activities of requirements engineering...which I‘ll refer to as the requirements definition phase...will need to be performed.
+
+
